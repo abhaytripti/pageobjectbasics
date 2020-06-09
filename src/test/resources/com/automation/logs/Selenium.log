@@ -1,0 +1,22 @@
+17:23:03,402 DEBUG devpinoyLogger:58 - Config file loaded !!!
+17:23:03,406 DEBUG devpinoyLogger:71 - OR file loaded !!!
+17:23:06,938 DEBUG devpinoyLogger:112 - Navigate to :http://www.zoho.com
+17:23:08,634 DEBUG devpinoyLogger:138 - Clicking on an element: loginlink_CSS
+17:23:09,204 DEBUG devpinoyLogger:164 - Typing in an element:email_CSS entered value as artlover.harshita@gmail.com
+17:23:09,248 DEBUG devpinoyLogger:152 - Submiting an element:nextbtn_XPATH
+17:23:09,452 DEBUG devpinoyLogger:164 - Typing in an element:password_CSS entered value as tripti75
+17:23:09,480 DEBUG devpinoyLogger:152 - Submiting an element:signbtn_XPATH
+17:23:11,911 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:23:11,915 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:23:11,915 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:23:11,915 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:23:11,915 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/asp_s/AppData/Local/Temp/surefire3161478615113218622/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:23:15,689 DEBUG devpinoyLogger:138 - Clicking on an element: crmlink_CSS
+17:23:16,866 DEBUG devpinoyLogger:138 - Clicking on an element: accountstab_CSS
+17:23:18,074 DEBUG devpinoyLogger:138 - Clicking on an element: createaccountbtn_XPATH
+17:23:18,840 DEBUG devpinoyLogger:164 - Typing in an element:accountname_CSS entered value as Tripti
+17:23:19,289 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:23:19,289 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:23:19,289 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:23:19,289 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:23:19,289 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/asp_s/AppData/Local/Temp/surefire3161478615113218622/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
