@@ -15,7 +15,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 		//no driver reference command this test class
-        
+        // Its to perform login
         //removed straight forward object and implement page Object
         // as soon as we will create instance HomePage class it will call page class because it extends page class
 	   HomePage home = new HomePage();
